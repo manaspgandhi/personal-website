@@ -18,11 +18,10 @@ export default function Home() {
       </h1>
 
       <div className="space-y-4">
-        <p>I&rsquo;m currently building Articulate, where we use computer vision to automatically detect issues on construction sites.</p>
+        <p>I&rsquo;m currently building Helonic, where we use computer vision to catch issues on construction drawings before they hit the site.</p>
         <p>
-          Previously, I co-founded Sarvaj.ai (deepfake detection, through
-          Vercel&rsquo;s AI accelerator) and interned at Sandia National
-          Laboratories and Target. I&rsquo;m finishing my MS in CS at UIUC.
+          I&rsquo;m a UIUC ECE & CS student. I previously interned at Sandia National
+          Laboratories and Target.
         </p>
         <p>
           I sometimes write <Link href="/essays" className="underline">essays</Link>.
