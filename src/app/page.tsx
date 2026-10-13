@@ -18,7 +18,8 @@ export default function Home() {
       </h1>
 
       <div className="space-y-4">
-        <p>I&rsquo;m currently building Helonic, where we use computer vision to catch issues on construction drawings before they hit the site.</p>
+        <p>I&rsquo;m currently building{" "}
+          <a href="https://helonic.com" className="underline">Helonic</a>, where we use computer vision to catch issues on construction drawings before they hit the site.</p>
         <p>
           I&rsquo;m a UIUC ECE & CS student. I previously interned at Sandia National
           Laboratories and Target.
