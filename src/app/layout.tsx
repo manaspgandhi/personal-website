@@ -21,6 +21,9 @@ export default function RootLayout({
             <Link href="/essays" className="hover:text-[var(--text)]">
               Essays
             </Link>
+            <Link href="/goatos" className="hover:text-[var(--text)]">
+              Essays
+            </Link>
           </nav>
           <main>{children}</main>
         </div>
