@@ -22,7 +22,7 @@ export default function RootLayout({
               Essays
             </Link>
             <Link href="/goatos" className="hover:text-[var(--text)]">
-              Essays
+              GoatOS
             </Link>
           </nav>
           <main>{children}</main>

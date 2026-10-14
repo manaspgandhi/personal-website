@@ -22,7 +22,7 @@ export default function Home() {
           <a href="https://helonic.com" className="underline">Helonic</a>, where we use computer vision to catch issues on construction drawings before they hit the site.</p>
         <p>
           I&rsquo;m a UIUC ECE & CS student. I previously interned at Sandia National
-          Laboratories and Target.
+          Laboratories and Target. Also check out <a href="/goatos" className="underline">GoatOS</a>, my favorite project.
         </p>
         <p>
           I sometimes write <Link href="/essays" className="underline">essays</Link>.
